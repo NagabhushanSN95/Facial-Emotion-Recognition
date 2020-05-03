@@ -25,7 +25,7 @@ If you use this work, please cite (or add a reference to) the work mentioned [ab
 
 ## Authors:
 [Nagabhushan S N](https://sites.google.com/site/nagabhushansn95)  
-[Sandesh Rao M](https://github.com/msandeshrao)
+[Sandesh Rao M](https://github.com/msandeshrao)  
 Special thanks to [Suhas S](https://www.linkedin.com/in/suhas-srinath-266253153) for his help in the development of this project.
 
 For any queries, please raise an issue.
